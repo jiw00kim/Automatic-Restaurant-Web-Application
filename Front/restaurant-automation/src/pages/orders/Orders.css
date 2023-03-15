@@ -1,0 +1,21 @@
+.rightSide {
+  position: relative;
+  left: 50%;
+  width: 50%;
+}
+.leftSide {
+  position: relative;
+  height: 0px;
+  width: 50%;
+  margin-bottom: 0px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+ol {
+  list-style-type: decimal;
+}
